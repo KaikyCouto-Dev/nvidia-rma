@@ -1,0 +1,7 @@
+build/
+db/*.db
+*.o
+*.out
+*~
+.vscode/
+.idea/
